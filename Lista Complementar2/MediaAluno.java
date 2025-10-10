@@ -13,7 +13,7 @@ public class MediaAluno {
 		System.out.println("Digite a quarta nota");
 		n4 = in.nextDouble();
 		mi = (n1+n2+n3+n4) /4;
-		System.out.println("Sua média é:" +mi);
+		System.out.println("Sua mÃ©dia Ã©:" +mi);
 		if (mi>7) {
 			System.out.println("Aprovado");
 		} else if (mi<5) {
@@ -23,7 +23,7 @@ public class MediaAluno {
 			System.out.println("Digite a nota do exame:");
 			ex = in.nextDouble();
 			nm = (mi+ex) /2;
-			System.out.println("Sua nova média é:");
+			System.out.println("Sua nova mÃ©dia Ã©:");
 			if (nm>=7) {
 				System.out.println("Aprovado no exame");
 			} else {
