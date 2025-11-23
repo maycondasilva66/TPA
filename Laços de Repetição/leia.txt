@@ -1,0 +1,1 @@
+Pasta contendo exercícios focados em laços de repetição (while, do while e for)
